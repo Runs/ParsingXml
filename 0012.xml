@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312"?>
+<EPClientDemo>  
+    <WebService_IP>192.168.0.1</WebService_IP>  
+    <WebService_PORT>4399</WebService_PORT>  
+    <Dest>DLUT</Dest>  
+    <RootPath_Receive>44:\rec</RootPath_Receive>  
+    <Receiver>huhu</Receiver>  
+</EPClientDemo>
